@@ -3,7 +3,8 @@ layout: post
 title: Hakkero - Part 1
 date: 2015-08-10T20:03:31+01:00
 categories: blog
-exerpt:
+excerpt: "I've decided the first prop I'm going to have a serious attempt at
+          making is going to be Marisa's mini hakkero"
 ---
 
 I've decided the first prop I'm going to have a serious attempt at making is

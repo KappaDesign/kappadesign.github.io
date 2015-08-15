@@ -3,7 +3,7 @@ layout: post
 title: Hello, world!
 date: 2015-07-03T20:15:53+01:00
 categories: blog
-exerpt:
+excerpt: "Hello!"
 ---
 
 Hello!
