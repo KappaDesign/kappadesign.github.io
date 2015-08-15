@@ -4,7 +4,7 @@ title: "Paintings"
 modified:
 categories: gallery
 excerpt:
-tags: []
+tags: ["art"]
 image:
   feature:
 date: 2015-08-15T12:53:49+01:00

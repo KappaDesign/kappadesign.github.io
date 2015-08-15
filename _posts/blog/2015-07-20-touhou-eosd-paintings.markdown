@@ -3,6 +3,7 @@ layout: post
 title: Touhou EoSD paintings
 date: 2015-07-20T10:14:50+01:00
 categories: blog
+tags: ["art"]
 excerpt: "A while ago my mother did some paintings based on Touhou The
           Embodiment of Scarlet Devil"
 ---
