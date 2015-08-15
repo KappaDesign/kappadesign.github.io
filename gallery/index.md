@@ -1,16 +1,12 @@
 ---
 layout: page
-title: Home
+title: Gallery
+excerpt: "An archive of all images by project."
 search_omit: true
 ---
 
-<p>
-This is where I'm going to be dumping all of my Touhou, Vocaloid, anime and cosplay related stuffs that I design and eventually build from now on.
-</p>
-
-<h1>Latest Posts</h1>
 <ul class="post-list">
-{% for post in site.posts limit:10 %} 
+{% for post in site.categories.gallery %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>

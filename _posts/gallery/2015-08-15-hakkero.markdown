@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Hakkero"
+modified:
+categories: gallery
+excerpt:
+tags: []
+image:
+  feature:
+date: 2015-08-15T12:53:36+01:00
+---
+
+{:.img500px}
+[![1]({{ site.baseurl }}/images/hakkero/1_laser_complete.jpg)]({{ site.baseurl }}/images/hakkero/1_laser_complete.jpg)
+
+{:.img500px}
+[![]({{ site.baseurl }}/images/hakkero/1_initial_attempt.jpg)]({{ site.baseurl }}/images/hakkero/1_initial_attempt.jpg)

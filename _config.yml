@@ -1,11 +1,13 @@
 # Site wide configuration
 
-title: Site Title
+title: Kappa Design
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: The place where I dump my semi-creative Touhou, Vocaloid, anime and cosplay related stuff.
+logo: logo.jpg
 search: true
-url: http://localhost:4000
+
+# url: http://localhost:4000
+url: https://kappadesign.github.io
 
 # Jekyll configuration
 
@@ -33,13 +35,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Dan Nixon
+  avatar:
+  email:
   disqus-shortname:
   twitter: #username
   facebook: #username
-  github: #username
+  github: KappaDesign
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
@@ -49,7 +51,7 @@ owner:
   weibo: #userid
   google:
     plus: #username
-    analytics:
+    analytics: UA-15520103-15
     verify:
     ad-client:
     ad-slot:
