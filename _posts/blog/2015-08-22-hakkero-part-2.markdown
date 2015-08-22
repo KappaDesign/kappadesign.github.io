@@ -3,7 +3,7 @@ layout: post
 title: "Hakkero - Part 2"
 modified:
 categories: blog
-excerpt:
+excerpt: "I've made a little more progress on the Hakkero!"
 tags: [hakkero]
 date: 2015-08-22T21:12:35+01:00
 ---
