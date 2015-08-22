@@ -15,3 +15,9 @@ date: 2015-08-15T12:53:36+01:00
 
 {:.img500px}
 [![]({{ site.baseurl }}/images/hakkero/1_initial_attempt.jpg)]({{ site.baseurl }}/images/hakkero/1_initial_attempt.jpg)
+
+{:.img500px}
+[![]({{ site.baseurl }}/images/hakkero/2_3d_assembly.png)]({{ site.baseurl }}/images/hakkero/2_3d_assembly.png)
+
+{:.img500px}
+[![]({{ site.baseurl }}/images/hakkero/2_3d_exploded.png)]({{ site.baseurl }}/images/hakkero/2_3d_exploded.png)
