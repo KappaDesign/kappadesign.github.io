@@ -296,21 +296,25 @@ span + .entry-title {
 
 // Used for fixing the width of images
 .img100px {
-  width: 100px;
+  max-width: 100px;
 }
 
 .img200px {
-  width: 200px;
+  max-width: 200px;
+}
+
+.img300px {
+  max-width: 300px;
 }
 
 .img400px {
-  width: 400px;
+  max-width: 400px;
 }
 
 .img500px {
-  width: 500px;
+  max-width: 500px;
 }
 
 .img600px {
-  width: 600px;
+  max-width: 600px;
 }
