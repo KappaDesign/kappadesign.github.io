@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hakkero"
-modified: 2015-08-22T21:12:35+01:00
+modified: 2015-09-17T12:38:00+01:00
 categories: gallery
 excerpt:
 tags: ["hakkero"]
@@ -19,3 +19,27 @@ date: 2015-08-15T12:53:36+01:00
 
 {:.img500px}
 [![]({{ site.baseurl }}/images/hakkero/2_3d_exploded.png)]({{ site.baseurl }}/images/hakkero/2_3d_exploded.png)
+
+{:.img500px}
+[![]({{ site.baseurl }}/images/hakkero/3_front.jpg)]({{ site.baseurl }}/images/hakkero/3_front.jpg)
+
+{:.img500px}
+[![]({{ site.baseurl }}/images/hakkero/3_front2.jpg)]({{ site.baseurl }}/images/hakkero/3_front2.jpg)
+
+{:.img500px}
+[![]({{ site.baseurl }}/images/hakkero/3_leds.jpg)]({{ site.baseurl }}/images/hakkero/3_leds.jpg)
+
+{:.img500px}
+[![]({{ site.baseurl }}/images/hakkero/3_rear.jpg)]({{ site.baseurl }}/images/hakkero/3_rear.jpg)
+
+{:.img500px}
+[![]({{ site.baseurl }}/images/hakkero/3_rear_electronics.jpg)]({{ site.baseurl }}/images/hakkero/3_rear_electronics.jpg)
+
+{:.img500px}
+[![]({{ site.baseurl }}/images/hakkero/3_rear_and_front.jpg)]({{ site.baseurl }}/images/hakkero/3_rear_and_front.jpg)
+
+{:.img500px}
+[![]({{ site.baseurl }}/images/hakkero/3_lit1.jpg)]({{ site.baseurl }}/images/hakkero/3_lit1.jpg)
+
+{:.img500px}
+[![]({{ site.baseurl }}/images/hakkero/3_lit2.jpg)]({{ site.baseurl }}/images/hakkero/3_lit2.jpg)
