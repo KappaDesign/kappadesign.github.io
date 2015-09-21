@@ -31,7 +31,7 @@ that both vacuum forming machines I used had dodgy seals.
 {:.img300px}
 [![Before final assembly]({{ site.baseurl }}/images/hakkero/3_rear_and_front.jpg)]({{ site.baseurl }}/images/hakkero/3_rear_and_front.jpg)
 
-The photo above shoes the two halves of the hakkero just before final assembly.
+The photo above shows the two halves of the hakkero just before final assembly.
 
 The LED's are a strip of NeoPixel compatible LED's (I can't remember the part
 number and can't seem to find where I bought them) controlled by an Arduino UNO
